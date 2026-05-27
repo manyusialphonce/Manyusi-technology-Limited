@@ -1,0 +1,6 @@
+{
+  "name": "AgriConnect",
+  "description": "A real-time marketplace and live inventory tracker connecting farmers directly with buyers, featuring secure payment flows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
